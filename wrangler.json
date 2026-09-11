@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "npm-registry-proxy",
+  "compatibility_date": "2026-01-30",
+  "main": "src/index.ts"
+}
